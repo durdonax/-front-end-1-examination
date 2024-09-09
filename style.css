@@ -1,0 +1,73 @@
+body{
+    text-align: center;
+}
+
+h1{ 
+    text-align: center;
+    color: rgb(67, 19, 67);
+    background-color: rgb(199, 154, 241);
+    border: 3px solid red;
+    border-radius: 25px;
+}
+p,ul,h3{ 
+    text-align: left;
+}
+
+
+.first{ 
+    color: rgb(197, 0, 0);
+}
+h3{ 
+    color: green;
+}
+img{
+
+    width: 45%;
+    height: 400px;
+}
+h2{
+    color: rgb(4, 148, 4);
+    background-color: yellow;
+}
+textarea{
+    width: 1300px;
+}
+form{
+    text-align: left;
+}
+button{
+    color: white;
+    background-color: rgb(30, 124, 161);
+    width: 250px;
+    height: 28px;
+    border: none;
+}
+table{
+   
+    border-collapse: collapse;
+    color: white;
+}
+
+
+.green{
+   width: 120px;
+    border: 1px solid white;
+    background-color: rgb(3, 95, 3);
+   
+}
+.blue{
+    width: 1000px;
+    border: 1px solid white;
+     background-color: rgb(0, 0, 167);
+}
+.red{
+    width: 120px;
+    border: 1px solid white;
+ background-color: rgb(250, 10, 10);
+
+}
+.black{ 
+    width: 1000px;
+    border: 1px solid white;
+    background-color: black;
+}
